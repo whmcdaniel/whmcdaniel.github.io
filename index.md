@@ -16,5 +16,5 @@ While Zoom may be one of the most popular and successful virtual classroom softw
 
 ### Milestones
 
-[a relative link](Milestone1.md)
-[a relative link](Milestone2.md)
+[Milestone 1](Milestone1.md)
+[Milestone 2](Milestone2.md)
