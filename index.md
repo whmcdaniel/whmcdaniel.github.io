@@ -1,4 +1,4 @@
-## Cheesy Bread
+## Welcome to Team Cheesy Bread!
 
 ### Team Members
 
