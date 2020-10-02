@@ -28,6 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### What's Our Mission?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whmcdaniel/whmcdaniel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+While Zoom may be one of the most popular and successful virtual classroom softwares for older students, it is often not suitable for younger students, particularly in elementary school. Parents, children, and teachers struggle to adjust to virtual Zoom classrooms from face-to-face classrooms due to its failure to meet the students' needs. Our group have identified that Zoom is too technical and unengaging for children and lacks a socialization interface that these students need at this critical stage in life. We propose to make Zoom more accessible for young learners by simplifying interfaces to minimize parental assistance and adding interfaces that allow easier socialization among peers and teachers and engaging interactive presentations and activities.
