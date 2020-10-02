@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/whmcdaniel/whmcdaniel.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Team Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Nikola Dimitrov
+- Annie Lim
+- Paul Arnett
+- Rachel Long
+- Will McDaniel
 
 ```markdown
 Syntax highlighted code block
