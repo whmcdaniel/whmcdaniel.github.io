@@ -4,8 +4,8 @@ Link to PDF: [Milestone 2](milestone 2.pdf)
 
 [Final Video](https://www.youtube.com/watch?v=vMxpfSsWL8E&feature=youtu.be)
 
-Homepage: (William)
-https://whmcdaniel.github.io/
+[Homepage](https://whmcdaniel.github.io)
+
 ### A. Task / Problem Definition
 Our problem. (Annie)
 
