@@ -18,4 +18,4 @@ While Zoom may be one of the most popular and successful virtual classroom softw
 
 [Milestone 1](Milestone1.md)
 
-[Milestone 2](milestone 2.pdf)
+[Milestone 2](Milestone2.md)
