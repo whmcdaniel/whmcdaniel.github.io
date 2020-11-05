@@ -141,20 +141,20 @@ Justification: There is no way to distinguish different types of messages in Zoo
 1b: 
 Justification: This allows quick identification of a message at a glance. Teachers can quickly answer questions and students can more easily find the answer. Since only text color is changed, the current user interface is kept more intact and minimal clutter is added.
 
-	1c: https://xd.adobe.com/view/7bbbbeeb-2151-4955-94cb-a70b0dc4ae89-2ee8/
+1c: https://xd.adobe.com/view/7bbbbeeb-2151-4955-94cb-a70b0dc4ae89-2ee8/
 Justification: Having buttons to differentiate the various types of messages allows for the chat to be less crowded with plain back and forth messages and allows the students and teachers to easily identify and respond to questions within the chat.  Having these buttons possibly color coded too will help further reduce strain on readers trying to quickly search for and respond to questions and answers. 
 
 1d: 
 Justification: This design allows the teacher to keep track of the questions that were read, so that the teacher can know which questions have yet to be answered. Teachers can click on the question to toggle it as read. The dots are noticeable to easily differentiate questions from other message types but not big enough to be a distraction. 
 
 Nikola - 1a and 2(nikoladimitrovbg@gmail.com)
-	2a: https://xd.adobe.com/view/e55e4e63-631a-4f7c-ae34-220b7e366187-b00d/
+2a: https://xd.adobe.com/view/e55e4e63-631a-4f7c-ae34-220b7e366187-b00d/
 Justification: By having students pick out an answer in a presentation that requires them to click or tap buttons on the presentations, it provides a more interactive experience for students when compared to simply answering using the chat function.
 
-	2b:
+2b:
 Justification: Transitioning between different tabs can be challenging for many teachers. Additionally, teachers often have to stop sharing, and then re-enable screen sharing in order to show information to the students. By making the experience smoother and easier, teachers can have a better time with sharing their screens.
 
-	2c:
+2c:
 Justification: A virtual whiteboard would allow for both students and teachers to have a more interactive experience with distance learning. 
 
 Paul - 1b and 3 (pga776@gmail.com) https://xd.adobe.com/view/e21f4701-3fa1-4785-ba74-8285509749b5-b74c/ 
@@ -166,20 +166,20 @@ Justification: A simple grid display format that is instantly legible to teacher
 Justification: Can better convey spatial continuity of a class room, with desks grouped together. The varying group arrangements and color will help teachers quickly identify and recall which students are in in which group. The layout will be less uniform and depend on the number and size of groups. Students will be organized to fit horizontally so only vertical scrolling is necessary.
 
 Rachel - 1c and 4
-	4a: 
+4a: 
 Justification: Removing the amount of buttons on the student’s view of the meeting could help improve their learning time for the platform as well as keep them less distracted by all the extra options that they may never need.  Also by reducing the amount of buttons available for students there is the opportunity to provide better signifiers such as bigger icons for buttons or more detailed text descriptions of the buttons so that the younger students can better understand the button functionality on their own. We also decided to relocate the Leave button to the upper-right corner to discourage students from clicking on it.
 
-	4b: 
+4b: 
 Justification: Adding colors to the buttons will greatly help the students in learning to use the platform as well as for teachers who may need to ask students to click on a certain function.  Students from a young age are taught colors and if a young student doesn’t have fully developed literacy associating a function/button with a color will allow them to still be able to use the platform.  
 
-	4c: 
+4c: 
 Justification: For younger students keeping the navigation bar fixed at the bottom of the screen can help them find functions when the teacher asks them to do something.  This has the possibility of reducing their response time and saving the young students from the confusion of trying to find their functions after a longer period of inactivity.  Also by having the navigation bar fixed at the bottom of the screen the students have the opportunity to become familiar with the locations and colors or certain functions since it will always be present on their screen.  
 
-	4d: 
+4d: 
 Justification: Having better descriptions of functions and what their affordances are for younger students will help them choose the correct buttons to use in less time.  The keyboard shortcuts for functions that are currently present in the “hover dialogue” are not helpful to younger users who may not have the knowledge of keyboard shortcuts or the technological literacy to understand what Ctrl + H means.  Instead simplifying the language and making their signifiers clearer for a younger audience will improve these users' understanding and engagement within the classroom.  
 
 Annie - 1d and 5
-	5a: 
+5a: 
 Justification: Raising a hand is a common gesture used in a classroom. The raise hand feature already exists on Zoom, but its location and its visibility is poor and inconvenient. Therefore, by relocation this feature to the navigation bar, students can access this feature with less steps. The hand icon is also shown at the upper right corner of the student’s video feed so that the teacher can see who are raising their hands.
 
 5b: 
@@ -192,13 +192,13 @@ Justification: Students will not need to use the keyboard. They will simply clic
 Justification: Word suggestions can predict the current word that the student is trying to type and the next word based on the current word. This can greatly reduce the amount of typing in the chat. Suggestions are displayed above the text box so that the user can see them with minimal movement of their eyes.
 
 Will - 6 (whmcdaniel@gmail.com)
-	6a:
+6a:
 Justification: As the saying goes, images can speak a thousand words. Allowing students to choose an icon that they like or resemble themselves can not only display their interests and/or personality, but they can also be used for others to associate images with their classmates. The icons are pre-approved to ensure appropriateness. 
 
-	6b:
+6b:
 Justification: For students who have nicknames or alternative names they go by, other students and teachers and easily identify them. The nickname is placed in between their real name to signify they have a nickname, but also allows the teacher to still know what the student’s real name is. 
 
-	6c: 
+6c: 
 Justification: There are many font styles and colors that students can choose from, resulting in unique combinations of identification. The types of font that can be used will be limited to fonts that are still legible. The same goes for the color that they can choose. 
 
 
