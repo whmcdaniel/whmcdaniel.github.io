@@ -8,7 +8,7 @@ Link to PDF: [Milestone 2](milestone 3 final.pdf)
 
 ### Part A - User Stories
 
-Students:
+## Students:
 Usability:
 As an elementary-aged student, I want to be able to easily join the Zoom meeting, so that I can attend class.
 As an elementary-aged student, I want to be able to easily learn and use Zoom’s meeting features, so that I can communicate with my teacher and peers without my parents’ help.
@@ -36,7 +36,7 @@ As a teacher, I want the ability to change the screen names of my students, so t
 As a teacher, I want the ability to mute my students, so that I can maintain control of my class.
 As a teacher, I want the ability of granting access to certain participants to share their screens and interactive presentations, so that the class can be more interactive for students.
 
-	Socialization:
+Socialization:
 As a teacher, I want to be able to view all students screens’ (video or image) during a breakout session, so that I can see which groups/individuals are engaged and on task.  
 As a teacher, I want to be able to read a transcript of students conversations’ so that I can understand their needs/questions.
 As a teacher, I want to be able to distinguish types of messages within the chat, so that I can identify time sensitive information from general messages.  
