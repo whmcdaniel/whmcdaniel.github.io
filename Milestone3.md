@@ -136,6 +136,15 @@ Pick a specific font/color for their name
 
 ### Wireframe Links
 
+Click here to access the source files and PNG images.
+
+https://drive.google.com/drive/folders/1Y66hfjTVc1Wjfaw_La7E7Jh6RJbb3NGc?usp=sharing
+
+Download instructions:
+Right-click on the Wireframes folder and click "download."
+Right-click on the Mockups folder and click "download."
+
+
 
 Everyone
 1a: (https://xd.adobe.com/view/969c0b4a-3253-4f6b-a87b-57c11e03244d-c3cf/) 
