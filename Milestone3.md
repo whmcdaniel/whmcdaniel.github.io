@@ -1,4 +1,4 @@
-### Milestone 3
+# Milestone 3
 
 Link to PDF: [Milestone 2](milestone 3 final.pdf)
 
@@ -6,28 +6,30 @@ Link to PDF: [Milestone 2](milestone 3 final.pdf)
 
 [Homepage](https://whmcdaniel.github.io)
 
-### Part A - User Stories
+# Part A - User Stories
 
 ## Students:
-Usability:
+
+### Usability:
 As an elementary-aged student, I want to be able to easily join the Zoom meeting, so that I can attend class.
 As an elementary-aged student, I want to be able to easily learn and use Zoom’s meeting features, so that I can communicate with my teacher and peers without my parents’ help.
 As an elementary-aged student, I want to interact with Zoom through mouse inputs, so that I am not forced to use the keyboard if I cannot type.
 
-Engagement:
+### Engagement:
 As an elementary-aged student, I want to be able to play multiplayer, mouse clicking games, so that I will want to stay in the Zoom classroom 
 As an elementary-aged student, I want to be able to use a whiteboard, so that I have more options to interact in the meeting.
 As an elementary-aged student, I want to be able to watch a video during class, so that I can see what we are learning instead of just listening.
 
-Socialization:
+### Socialization:
 As an elementary-aged student, I want to be able to see chat bubbles in the chat, so that I can distinguish which person said what more easily.
 As an elementary-aged student, I want my chat messages to be aligned on the right of the chat, so that I can easily identify my own chat messages. 
 As an elementary-aged student, I want to be able to highlight my name in a specific color, so that I can identify myself and my chat messages in the Zoom meeting.
 As an elementary-aged student, I want the ability to pick an image/icon to appear next to my name, so I can easily identify myself and others in the Zoom meeting.
 
 
-Teachers:
-Engagement:
+## Teachers:
+
+### Engagement:
 As a teacher, I want to be able to share videos and movies with my students, so that I can keep them engaged with the material. 
 As a teacher, I want the ability to allow my students to play multiplayer, mouse clicking games through Zoom, so that I can maintain control of the class, and keep the students engaged. 
 As a teacher, I want the ability to remove or restrict the option for students to change their virtual background, so that I can decrease distractions.
@@ -36,7 +38,7 @@ As a teacher, I want the ability to change the screen names of my students, so t
 As a teacher, I want the ability to mute my students, so that I can maintain control of my class.
 As a teacher, I want the ability of granting access to certain participants to share their screens and interactive presentations, so that the class can be more interactive for students.
 
-Socialization:
+### Socialization:
 As a teacher, I want to be able to view all students screens’ (video or image) during a breakout session, so that I can see which groups/individuals are engaged and on task.  
 As a teacher, I want to be able to read a transcript of students conversations’ so that I can understand their needs/questions.
 As a teacher, I want to be able to distinguish types of messages within the chat, so that I can identify time sensitive information from general messages.  
@@ -47,14 +49,7 @@ As a teacher, I want my chat comments to be aligned on the right, so that I can 
 
 
 
-
-
-
-
-
-
-
-Most relevant user stories
+## Most relevant user stories
 
 As a teacher, I want to be able to distinguish types of messages within the chat, so that I can identify time sensitive information from general messages. 
 Justification: Oftentimes in Zoom meetings, especially those with many participants, chat messages can get lost in a torrent of chat messages. This is certainly the case when a teacher asks a question to class and gets flooded with answers. This can also happen when the teacher asks the class “any questions?” By being able to distinguish different types of messages, such as questions, answers, etc., the teacher will be able to more easily distinguish between different chat messages and respond more efficiently to the chat messages.
@@ -77,18 +72,9 @@ Justification: Younger students may find it difficult to identify themselves in 
 
 
 
+# B. Ideation and Preliminary Designs
 
-
-
-
-
-
-
-
-
-### B. Ideation and Preliminary Designs
-
-Design Ideas
+## Design Ideas
 
 As a teacher, I want to be able to distinguish types of messages within the chat, so that I can identify time sensitive information from general messages. 
 Highlight the background of different messages in different colors that display urgency
@@ -146,7 +132,8 @@ Pick a specific font/color for their name
 
 
 
-Wireframes:
+## Wireframes:
+
 Everyone
 1a: https://xd.adobe.com/view/969c0b4a-3253-4f6b-a87b-57c11e03244d-c3cf/ 
 Justification: There is no way to distinguish different types of messages in Zoom, so by highlighting the messages, teachers will be able to identify and prioritize different chat messages
@@ -215,9 +202,9 @@ Justification: For students who have nicknames or alternative names they go by, 
 Justification: There are many font styles and colors that students can choose from, resulting in unique combinations of identification. The types of font that can be used will be limited to fonts that are still legible. The same goes for the color that they can choose. 
 
 
-### C. Detailed Designs
+# C. Detailed Designs
 
-Chosen Designs:
+## Chosen Designs:
 
 Chosen: Design 1a (tone of red can change when question is answered)
 Justification: By having the different types of messages be color coded, the teacher will be able to much more quickly identify what types of messages are being sent. Questions will most likely be the highest priority for teachers, so being able to identify them quickly is important, in order for them to answer all questions. Otherwise, teachers may accidentally skip certain questions without realizing it. Additionally, having the color coded bubbles rather than color coded text is better, because teachers will be able to identify where exactly each bubble starts and ends. We chose colors that are easily distinguishable to colorblind people.
@@ -242,7 +229,7 @@ Justification: Allowing students to add a simple character next to their name is
 
 
 
-### Works Cited
+# Works Cited
 
 “At What Age Are Kids Developmentally Ready for Typing?” typing.com, 30 March 2018, https://www.typing.com/blog/age-kids-developmentally-reading-typing/.
 Joseph, Saishah. “Creative virtual backgrounds for professional (and fun) Zoom calls.” flockblog, 10 September 2020, https://blog.flock.com/zoom-virtual-backgrounds.
