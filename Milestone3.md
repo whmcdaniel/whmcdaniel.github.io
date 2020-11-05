@@ -2,6 +2,6 @@
 
 Link to PDF: [Milestone 2](milestone 3 final.pdf)
 
-[Final Video](https://www.youtube.com/watch?v=vMxpfSsWL8E&feature=youtu.be)
+[Final Video](https://youtu.be/uh1P8U3beHM)
 
 [Homepage](https://whmcdaniel.github.io)
