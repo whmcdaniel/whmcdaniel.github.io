@@ -135,7 +135,7 @@ Pick a specific font/color for their name
 ## Wireframes:
 
 Everyone
-1a: https://xd.adobe.com/view/969c0b4a-3253-4f6b-a87b-57c11e03244d-c3cf/ 
+1a: [](https://xd.adobe.com/view/969c0b4a-3253-4f6b-a87b-57c11e03244d-c3cf/) 
 Justification: There is no way to distinguish different types of messages in Zoom, so by highlighting the messages, teachers will be able to identify and prioritize different chat messages
 
 1b: 
