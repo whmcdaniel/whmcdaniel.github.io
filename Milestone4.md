@@ -2,7 +2,7 @@
 
 Link to PDF: [Milestone 4](milestone 4 final.pdf)
 
-[Final Video]()
+[Final Summary Video]()
 
 [Homepage](https://whmcdaniel.github.io)
 
