@@ -8,8 +8,8 @@ Link to PDF: [Milestone 4](milestone 4 final.pdf)
 
 # Fair Use Notice
 
-    This work contains copyrighted material, the use of which may not have specifically been authorized by the copyright owner. This material is available in an effort to advance the understanding of Human-Computer Interaction (HCI), User Experience (UX), and User Interfaces (UIs) for the students involved in this work. The material contained in this project is distributed without profit for educational purposes. Only small portions of the original work are being used and those could not be used easily to duplicate the original work.
-    This should constitute a ‘fair use’ of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law). If you wish to use any copyrighted material from this site for purposes of your own that go
+This work contains copyrighted material, the use of which may not have specifically been authorized by the copyright owner. This material is available in an effort to advance the understanding of Human-Computer Interaction (HCI), User Experience (UX), and User Interfaces (UIs) for the students involved in this work. The material contained in this project is distributed without profit for educational purposes. Only small portions of the original work are being used and those could not be used easily to duplicate the original work.
+This should constitute a ‘fair use’ of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law). If you wish to use any copyrighted material from this site for purposes of your own that go
 
 
 # Part A - High Fidelity Prototype
