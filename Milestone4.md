@@ -25,7 +25,7 @@ This should constitute a ‘fair use’ of any such copyrighted material (refere
 ### 1. As a teacher, I want to be able to distinguish types of messages within the chat, so that I can identify time sensitive information from general messages. 
 
 Design Explanation: For this user story, our team decided that the best way to distinguish different types of messages would be by highlighting the color of the background of the message. We decided on three different types of main messages: questions, highlighted in red, answers, highlighted in blue, and general comments, with no highlighted background. We decided on using color for two main reasons. Firstly, color was the best way to distinguish messages without reducing the readability of the message. Secondly, color has strong emotional connections. For example, we highlighted questions in red. Questions are typically going to be the most important messages that teachers will look for in the chat, and the color red is typically associated with urgency, or warning, which will cause the teacher’s attention to immediately switch over to the question.
- #### [Video](https://youtu.be/luEq3odGdqQ) 
+#### [Video](https://youtu.be/luEq3odGdqQ) 
 
 ### 2. As a teacher, I want the ability to share interactive presentations with my students, so that I can keep them engaged with the presentation.
 
