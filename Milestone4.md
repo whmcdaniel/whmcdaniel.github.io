@@ -9,7 +9,8 @@ Link to PDF: [Milestone 4](milestone 4 final.pdf)
 # Part A - High Fidelity Prototype
 
 A.1) Adobe XD files:
-	[Prototype (Teacher)](https://drive.google.com/file/d/1O_ISelByG_tODwlV5KBEK7v523YkPD4X/view?usp=sharing)
+
+[Prototype (Teacher)](https://drive.google.com/file/d/1O_ISelByG_tODwlV5KBEK7v523YkPD4X/view?usp=sharing)
 
 [Prototype (Student)](https://drive.google.com/file/d/1QD377owbUF6XcNRrCE3se5TrrSl3Isu-/view?usp=sharing) 
 
