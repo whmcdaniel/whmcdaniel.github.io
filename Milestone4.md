@@ -91,20 +91,22 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
 
 ## B.2) Testing Procedure
 
-Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
-Qualitative Procedure:
-The following questions would be asked to teachers after using regular Zoom:
-How would you rate your experience with the chat?
-How would you rate your ability to quickly identify important chat messages?
-How would you rate your experience with the “Breakout Rooms”? 
-How would you rate the organization of breakout rooms?
-How would you rate the ease with which you can maneuver around different breakout rooms?
-How would you rate the ability to control students in different breakout rooms?
-How would you rate your ability to communicate with your students in Zoom?
-How would you rate the usability of Zoom?
-How would you rate the level of engagement of your students during class time in Zoom?
-How would you rate your overall experience with Zoom?
-Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+1. Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
+
+2. Qualitative Procedure:
+
+  a): The following questions would be asked to teachers after using regular Zoom:
+      How would you rate your experience with the chat?
+      How would you rate your ability to quickly identify important chat messages?
+      How would you rate your experience with the “Breakout Rooms”? 
+      How would you rate the organization of breakout rooms?
+      How would you rate the ease with which you can maneuver around different breakout rooms?
+      How would you rate the ability to control students in different breakout rooms?
+      How would you rate your ability to communicate with your students in Zoom?
+      How would you rate the usability of Zoom?
+      How would you rate the level of engagement of your students during class time in Zoom?
+      How would you rate your overall experience with Zoom?
+      Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
 The following questions would be asked to control students:
 How do you feel about Zoom?
 How do you feel about using the chat to talk to the teacher?
