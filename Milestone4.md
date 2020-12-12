@@ -76,8 +76,12 @@ We will be using a combination of an experiment and a survey for obtaining quant
 Each participant, teachers and students, will be asked to rate their experience. Students will rate their experience with either the regular Zoom interface or the modified Zoom interface. Teachers will rate their experience with both the existing and modified Zoom interfaces.
 A scale from one to five would be used. This scale would be similar to scales given to children when visiting the doctor. A one would be represented with an extremely upset face, and a five would be represented with an extremely happy face. These coincide with their respective value, with an extremely upset face response indicating an unpleasant experience with the new user interface, and an extremely happy face response indicating a pleasant experience with the new user interface. Teachers would also have a one to five scale, though with each correlating to very poor to very highly.
 Reason for use: To obtain users’ perception and satisfaction of existing and new Zoom features.
-Quantitative Experiment: Each teacher will run through the following with a control group and an experimental group.
+
+#### Quantitative Experiment
+
+Each teacher will run through the following with a control group and an experimental group.
 To give a rough indication of classroom performance, teachers will conduct a typical lesson plan and then give their students a short quiz. Their performance can serve as an approximation of how well students were paying attention and if the new interface increases engagement and retention.
+
 Reason for use: Provides a universal baseline for comparing class performance and retention.
 For a quantitative measure of usability, each teacher along with their students will be given a set of tasks to perform on both the regular and our modified Zoom. Time for each task can be recorded and compared between the control and experimental groups to examine the difference in efficiency and ease of use. 
 Reason for use: Provides numerical measurement for comparing usability of a variety of tasks involving user interface.
