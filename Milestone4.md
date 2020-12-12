@@ -93,7 +93,7 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
 
 1. Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
 
-2. Qualitative Procedure:
+#### 2. Qualitative Procedure:
 
   a): The following questions would be asked to teachers after using regular Zoom:
   
@@ -114,7 +114,7 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
       -How do you feel about Zoom?
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
-      -Responses: Faces ranging from unpleasant to happy.
+      -Responses: ![Faces ranging from unpleasant to happy.](https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png)
 
   c): The following questions would be asked to teachers after using the modified Zoom:
   
@@ -141,18 +141,18 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
       -How do you feel about the pictures you can add next to your name?
-      -Responses: Faces ranging from unpleasant to happy.
+      -Responses: ![Faces ranging from unpleasant to happy.](https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png)
 
-## B.3) Quantitative Procedure:
+#### 3. Quantitative Procedure:
 
 a): teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject.
 As an example, given the chosen subject of English:
 2nd grade teachers would conduct a lesson on antonyms and offer a quiz with questions like:
 Soft is to hard as light is to ___
-Soft
-Heavy
-Bright
-Fight
+1. Soft
+2. Heavy
+3. Bright
+4. Fight
 5th grade teachers could conduct a vocabulary lesson and offer questions like:
 If negotiate means “to obtain or bring about by discussion”, what is something you might negotiate with your teacher?
 When the last day of school is.
