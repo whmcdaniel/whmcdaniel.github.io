@@ -91,7 +91,7 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
 
 ## B.2) Testing Procedure
 
-Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
+1. Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
 
 #### 2. Qualitative Procedure:
 
@@ -173,9 +173,11 @@ c) After the lesson and quiz, students will be given the following tasks to perf
   * Asking their teacher a simple question, i.e. What is a verb? using the chat.
   * Raising their hand in class.
   * Being given the name of a fellow classmate and asked to identify them in the Zoom call.
+  
 d) Teachers will also be given a set of usability tasks, including:
 * Recognizing and responding to a student’s question given a set number of Zoom posts.
 * Recognizing that an individual student is off task during a breakout session.
+
 e) Time of completion for each task will be recorded for each teacher and student, along with the group they were in.
 
 #### 4. Obtaining consent:
@@ -207,7 +209,8 @@ Since survey questions are on a scale from 1 to 5, we will compute the mean answ
 - We define a pair between surveys taken by students in the control group and surveys taken by students in the experimental group and another pair between surveys taken by teachers after using the regular Zoom and surveys taken by teachers after using the modified Zoom. 
 - The mean answer of questions that are not asked to both groups of a pair will be analyzed on a scale from 1 to 5 where 1 represents unpleasant experience and 5 represents pleasant experience.
 - Comparing the mean value of each question is meant to give a glimpse of possible shifts in user’s opinions between the two versions. This is more exploratory, if promise is shown user opinion will be evaluated with more rigor. 
-b) Quantitative Data:\
+
+b) Quantitative Data:
 - Given the null hypothesis that our Zoom changes have no effect on student’s engagement and academic retention or on student’s and teacher’s performance on short UI tasks.
 - The mean will be calculated for experimental and control groups of teachers and students, per the organization scheme previously listed.
 - A single sided t-test will be performed to see if there is a significant difference between control and experimental groups.
