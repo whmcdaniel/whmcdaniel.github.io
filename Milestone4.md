@@ -67,8 +67,13 @@ Design Explanation: For this user story our team decided to create an option for
 How do the modifications to the user interface of Zoom impact the ability of elementary-aged students and elementary school teachers to use Zoom in terms of student engagement and retention, product usability, and student’s and teacher’s overall satisfaction with a class?
 
 
-Methodology: We will be using a combination of an experiment and a survey for obtaining quantitative and qualitative data, respectively. We will be randomly choosing N American elementary school classes and their corresponding teachers, with at least 1 class per grade level (Kindergarten to 5th grade). For each class within each grade level, students will be randomly assigned to either the control group or the experimental group. Each teacher will conduct a class using the regular Zoom with the control group and the modified Zoom with the experimental group.
-Qualitative Survey: Each participant, teachers and students, will be asked to rate their experience. Students will rate their experience with either the regular Zoom interface or the modified Zoom interface. Teachers will rate their experience with both the existing and modified Zoom interfaces.
+### Methodology
+
+We will be using a combination of an experiment and a survey for obtaining quantitative and qualitative data, respectively. We will be randomly choosing N American elementary school classes and their corresponding teachers, with at least 1 class per grade level (Kindergarten to 5th grade). For each class within each grade level, students will be randomly assigned to either the control group or the experimental group. Each teacher will conduct a class using the regular Zoom with the control group and the modified Zoom with the experimental group.
+
+#### Qualitative Survey
+
+Each participant, teachers and students, will be asked to rate their experience. Students will rate their experience with either the regular Zoom interface or the modified Zoom interface. Teachers will rate their experience with both the existing and modified Zoom interfaces.
 A scale from one to five would be used. This scale would be similar to scales given to children when visiting the doctor. A one would be represented with an extremely upset face, and a five would be represented with an extremely happy face. These coincide with their respective value, with an extremely upset face response indicating an unpleasant experience with the new user interface, and an extremely happy face response indicating a pleasant experience with the new user interface. Teachers would also have a one to five scale, though with each correlating to very poor to very highly.
 Reason for use: To obtain users’ perception and satisfaction of existing and new Zoom features.
 Quantitative Experiment: Each teacher will run through the following with a control group and an experimental group.
