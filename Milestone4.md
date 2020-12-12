@@ -91,11 +91,11 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
 
 ## B.2) Testing Procedure
 
-1. Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
+Each teacher will have two groups of students of the same grade level - one control group using the original Zoom, and one experimental group using the modified Zoom based on our prototype. They will then run through the following procedure for both groups. Teachers will use both regular zoom and the modified zoom with their students, but each class of students will only interact with one version.
 
 #### 2. Qualitative Procedure:
 
-  > a): The following questions would be asked to teachers after using regular Zoom:
+  a): The following questions would be asked to teachers after using regular Zoom:
   
       -How would you rate your experience with the chat?
       -How would you rate your ability to quickly identify important chat messages?
@@ -107,16 +107,16 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
       -How would you rate the usability of Zoom?
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with Zoom?
-   > Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
       
-  > b): The following questions would be asked to control students:
+  b): The following questions would be asked to control students:
   
       -How do you feel about Zoom?
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
-   > Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
+   Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
     
-  > c): The following questions would be asked to teachers after using the modified Zoom:
+  c): The following questions would be asked to teachers after using the modified Zoom:
   
       -How would you rate your experience with the chat, in particular the highlighted chat messages?
       -How would you rate your ability to quickly identify important chat messages?
@@ -131,9 +131,9 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with the modified Zoom user interface?
       
-   > Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
        
-  > d): The following questions would be asked to experimental students:
+  d): The following questions would be asked to experimental students:
  
       -How do you feel about this version of Zoom?
       -How do you feel about the “Speech-to-Text” button?
