@@ -96,9 +96,9 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
 2. Qualitative Procedure:
 
   a): The following questions would be asked to teachers after using regular Zoom:
-      How would you rate your experience with the chat?
-      How would you rate your ability to quickly identify important chat messages?
-      How would you rate your experience with the “Breakout Rooms”? 
+      - How would you rate your experience with the chat?
+      - How would you rate your ability to quickly identify important chat messages?
+      - How would you rate your experience with the “Breakout Rooms”? 
       How would you rate the organization of breakout rooms?
       How would you rate the ease with which you can maneuver around different breakout rooms?
       How would you rate the ability to control students in different breakout rooms?
