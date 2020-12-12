@@ -95,7 +95,7 @@ Each teacher will have two groups of students of the same grade level - one cont
 
 #### 2. Qualitative Procedure:
 
-  a): The following questions would be asked to teachers after using regular Zoom:
+  a) The following questions would be asked to teachers after using regular Zoom:
   
       -How would you rate your experience with the chat?
       -How would you rate your ability to quickly identify important chat messages?
@@ -107,16 +107,18 @@ Each teacher will have two groups of students of the same grade level - one cont
       -How would you rate the usability of Zoom?
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with Zoom?
+      
   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
       
-  b): The following questions would be asked to control students:
+  b) The following questions would be asked to control students:
   
       -How do you feel about Zoom?
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
+      
   Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
     
-  c): The following questions would be asked to teachers after using the modified Zoom:
+  c) The following questions would be asked to teachers after using the modified Zoom:
   
       -How would you rate your experience with the chat, in particular the highlighted chat messages?
       -How would you rate your ability to quickly identify important chat messages?
@@ -133,7 +135,7 @@ Each teacher will have two groups of students of the same grade level - one cont
       
   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
        
-  d): The following questions would be asked to experimental students:
+  d) The following questions would be asked to experimental students:
  
       -How do you feel about this version of Zoom?
       -How do you feel about the “Speech-to-Text” button?
@@ -142,62 +144,77 @@ Each teacher will have two groups of students of the same grade level - one cont
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
       -How do you feel about the pictures you can add next to your name?
+      
    Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
    
 #### 3. Quantitative Procedure:
 
-a): teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject.
+a)The teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject\
 As an example, given the chosen subject of English:
-2nd grade teachers would conduct a lesson on antonyms and offer a quiz with questions like:
-Soft is to hard as light is to ___
-1. Soft
-2. Heavy
-3. Bright
-4. Fight
-5th grade teachers could conduct a vocabulary lesson and offer questions like:
-If negotiate means “to obtain or bring about by discussion”, what is something you might negotiate with your teacher?
-When the last day of school is.
-How early the bus comes in the morning.
-If you can make up a missed test.
-If you can have pizza for dinner at night.
-The average score per class, which will be graded out of 100, will be recorded and can be compared between experimental and control groups.
-After the lesson and quiz, students will be given the following tasks to perform on Zoom:
-Asking their teacher a simple question, i.e. What is a verb? using the chat.
-Raising their hand in class.
-Being given the name of a fellow classmate and asked to identify them in the Zoom call.
-Teachers will also be given a set of usability tasks, including:
-Recognizing and responding to a student’s question given a set number of Zoom posts.
-Recognizing that an individual student is off task during a breakout session.
-Time of completion for each task will be recorded for each teacher and student, along with the group they were in.
-Obtaining consent:
-The process of obtaining informed consent needs to be based on full and open access to the information regarding the testing procedure.  The informed consent process will include information regarding the target participants, risks and benefits of the testing procedure, and the handling of information collected during the tests.  
-The testing procedure does not require the group to collect personal information on the individual participants such as their name, face, academics, or whether or not they have a disability. However, such information may be collected in the recordings described in the Pandemic Safety Measures section of this document. Rest assured, these personal information will be discarded during the data analysis process and will not be released to the public.
-The risks of performing this procedure include increased anxiety or stress due to the questionnaire.  This would be similar to testing anxiety since the participants would be aware that they are being tested for evaluation of their feedback and time to perform certain tasks.  In general this is low-risk however special consideration of anxiety could be considered for populations with disabilities.  Other risks include releasing personal information and video of faces and surroundings to the researchers.  The benefits could include an improved platform for student learning, an increased understanding of how students and teachers interact within the platform, increased concept learning for students, social benefits, etc. 
-The information collected whether qualitative or quantitative would be as anonymous as possible and interpreted for a general population of student and teacher feedback.  The only distinction in data/feedback would be categorizing data between a student response vs. a teacher response and distinction between grade/age group.  The data collected would not be shared outside the research group and the institutions in which the research is performed.  
-The biggest issue in obtaining informed consent is the imbalance of power.  The traditional consent process would involve the ethics committee, research group, school/institutions, and the participants.  In this case the participants are teachers and young students however the traditional process would involve getting parental consent meaning that the consent would not be obtained from the participants themselves.  A proposed solution to the traditional process would be a dual consent process which would include parental consent in addition to participant consent if their parents gave consent for their participation.  Another solution would be a non-traditional approach of allowing students to give consent to participate in the research and then providing them with a testing document that they can provide to their parents/guardian if they choose to.   
-Data Collection and Organization:
-Qualitative Data: The data collected from surveys are the ratings for each question in the surveys. These ratings will be organized by question and group:
-current Zoom vs. modified Zoom students (w/ different students per group)
-Results averaged per question
-current Zoom vs modified Zoom teachers (amongst the same teachers)
-Results averaged per question
-Quantitative Data: The data collected from experiments are the class average quiz score and the completion times of tasks performed by every participant. The data will first be organized as either quiz score or completion time, by grade level. Completion times will further be organized into type of participant then type of tasks. Organization scheme is as follows:
-Quiz results - current Zoom vs. modified Zoom students
-Usability tasks - current Zoom vs. modified Zoom students
-Usability tasks - current Zoom vs modified Zoom teachers
-Data Analysis:
-Qualitative Data:
+
+- 2nd grade teachers would conduct a lesson on antonyms and offer a quiz with questions like:
+
+      Soft is to hard as light is to ___
+      a) Soft
+      b) Heavy
+      c) Bright
+      d) Fight
+      
+- 5th grade teachers could conduct a vocabulary lesson and offer questions like:
+
+      If negotiate means “to obtain or bring about by discussion”, what is something you might negotiate with your teacher?
+      1) When the last day of school is.
+      b) How early the bus comes in the morning.
+      c) If you can make up a missed test.
+      d) If you can have pizza for dinner at night.
+       
+b) The average score per class, which will be graded out of 100, will be recorded and can be compared between experimental and control groups.\
+c) After the lesson and quiz, students will be given the following tasks to perform on Zoom:
+  * Asking their teacher a simple question, i.e. What is a verb? using the chat.
+  * Raising their hand in class.
+  * Being given the name of a fellow classmate and asked to identify them in the Zoom call.
+d) Teachers will also be given a set of usability tasks, including:
+* Recognizing and responding to a student’s question given a set number of Zoom posts.
+* Recognizing that an individual student is off task during a breakout session.
+e) Time of completion for each task will be recorded for each teacher and student, along with the group they were in.
+
+#### 4. Obtaining consent:
+
+a) The process of obtaining informed consent needs to be based on full and open access to the information regarding the testing procedure. The informed consent process will include information regarding the target participants, risks and benefits of the testing procedure, and the handling of information collected during the tests.  
+* The testing procedure does not require the group to collect personal information on the individual participants such as their name, face, academics, or whether or not they have a disability. However, such information may be collected in the recordings described in the Pandemic Safety Measures section of this document. Rest assured, these personal information will be discarded during the data analysis process and will not be released to the public.
+* The risks of performing this procedure include increased anxiety or stress due to the questionnaire.  This would be similar to testing anxiety since the participants would be aware that they are being tested for evaluation of their feedback and time to perform certain tasks.  In general this is low-risk however special consideration of anxiety could be considered for populations with disabilities.  Other risks include releasing personal information and video of faces and surroundings to the researchers.  The benefits could include an improved platform for student learning, an increased understanding of how students and teachers interact within the platform, increased concept learning for students, social benefits, etc. 
+* The information collected whether qualitative or quantitative would be as anonymous as possible and interpreted for a general population of student and teacher feedback.  The only distinction in data/feedback would be categorizing data between a student response vs. a teacher response and distinction between grade/age group.  The data collected would not be shared outside the research group and the institutions in which the research is performed.
+
+b) The biggest issue in obtaining informed consent is the imbalance of power.  The traditional consent process would involve the ethics committee, research group, school/institutions, and the participants.  In this case the participants are teachers and young students however the traditional process would involve getting parental consent meaning that the consent would not be obtained from the participants themselves.  A proposed solution to the traditional process would be a dual consent process which would include parental consent in addition to participant consent if their parents gave consent for their participation.  Another solution would be a non-traditional approach of allowing students to give consent to participate in the research and then providing them with a testing document that they can provide to their parents/guardian if they choose to.   
+
+#### 5. Data Collection and Organization:
+
+a) Qualitative Data: The data collected from surveys are the ratings for each question in the surveys. These ratings will be organized by question and group:
+- current Zoom vs. modified Zoom students (w/ different students per group)
+  - Results averaged per question
+- current Zoom vs modified Zoom teachers (amongst the same teachers)
+  - Results averaged per question
+  
+b) Quantitative Data: The data collected from experiments are the class average quiz score and the completion times of tasks performed by every participant. The data will first be organized as either quiz score or completion time, by grade level. Completion times will further be organized into type of participant then type of tasks. Organization scheme is as follows:
+- Quiz results - current Zoom vs. modified Zoom students
+- Usability tasks - current Zoom vs. modified Zoom students
+- Usability tasks - current Zoom vs modified Zoom teachers
+
+#### 6. Data Analysis:
+
+a) Qualitative Data:\
 Since survey questions are on a scale from 1 to 5, we will compute the mean answer of each question for each survey. Then, we will compare the mean values between each pair of surveys, for questions that are asked to both groups of a pair. 
-We define a pair between surveys taken by students in the control group and surveys taken by students in the experimental group and another pair between surveys taken by teachers after using the regular Zoom and surveys taken by teachers after using the modified Zoom. 
-The mean answer of questions that are not asked to both groups of a pair will be analyzed on a scale from 1 to 5 where 1 represents unpleasant experience and 5 represents pleasant experience.
-Comparing the mean value of each question is meant to give a glimpse of possible shifts in user’s opinions between the two versions. This is more exploratory, if promise is shown user opinion will be evaluated with more rigor. 
-Quantitative Data:
-Given the null hypothesis that our Zoom changes have no effect on student’s engagement and academic retention or on student’s and teacher’s performance on short UI tasks.
-The mean will be calculated for experimental and control groups of teachers and students, per the organization scheme previously listed.
-A single sided t-test will be performed to see if there is a significant difference between control and experimental groups.
-If a p value > 0.05 is found then we can reject the null hypothesis and claim that our changes in zoom improved the outcomes we measured.
-Otherwise, we will fail to reject the null and cannot claim that our modified zoom yields improvements on these outcomes.
-Pandemic Safety Measures:
+- We define a pair between surveys taken by students in the control group and surveys taken by students in the experimental group and another pair between surveys taken by teachers after using the regular Zoom and surveys taken by teachers after using the modified Zoom. 
+- The mean answer of questions that are not asked to both groups of a pair will be analyzed on a scale from 1 to 5 where 1 represents unpleasant experience and 5 represents pleasant experience.
+- Comparing the mean value of each question is meant to give a glimpse of possible shifts in user’s opinions between the two versions. This is more exploratory, if promise is shown user opinion will be evaluated with more rigor. 
+b) Quantitative Data:\
+- Given the null hypothesis that our Zoom changes have no effect on student’s engagement and academic retention or on student’s and teacher’s performance on short UI tasks.
+- The mean will be calculated for experimental and control groups of teachers and students, per the organization scheme previously listed.
+- A single sided t-test will be performed to see if there is a significant difference between control and experimental groups.
+- If a p value > 0.05 is found then we can reject the null hypothesis and claim that our changes in zoom improved the outcomes we measured.
+- Otherwise, we will fail to reject the null and cannot claim that our modified zoom yields improvements on these outcomes.
+
+#### 7. Pandemic Safety Measures:
 All parts of the testing procedure will be done remotely from gathering samples to collecting data. Documentations for consent will be sent and received through email. Online surveys will be conducted. Experiments will be conducted remotely using Zoom. For the task performing section of the experiment, recordings of the Zoom meeting from the perspective of each student and teacher will be collected, and the completion time for those tasks will be analyzed post-meeting.
 
 
