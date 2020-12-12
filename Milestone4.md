@@ -107,14 +107,14 @@ Each teacher will have two groups of students of the same grade level - one cont
       -How would you rate the usability of Zoom?
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with Zoom?
-   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+  Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
       
   b): The following questions would be asked to control students:
   
       -How do you feel about Zoom?
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
-   Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
+  Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
     
   c): The following questions would be asked to teachers after using the modified Zoom:
   
@@ -131,7 +131,7 @@ Each teacher will have two groups of students of the same grade level - one cont
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with the modified Zoom user interface?
       
-   Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+  Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
        
   d): The following questions would be asked to experimental students:
  
@@ -142,9 +142,9 @@ Each teacher will have two groups of students of the same grade level - one cont
       -How do you feel about using the chat to talk to the teacher?
       -How confident are you about using Zoom without any help?
       -How do you feel about the pictures you can add next to your name?
-   > Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
+   Responses: <img src="https://opiniator.com/wp-content/uploads/2018/10/Emoji1.png" alt="Faces ranging from unpleasant to happy" width="200"/>
+   
 #### 3. Quantitative Procedure:
-
 
 a): teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject.
 As an example, given the chosen subject of English:
