@@ -163,7 +163,7 @@ As an example, given the chosen subject of English:
 - 5th grade teachers could conduct a vocabulary lesson and offer questions like:
 
       If negotiate means “to obtain or bring about by discussion”, what is something you might negotiate with your teacher?
-      1) When the last day of school is.
+      a) When the last day of school is.
       b) How early the bus comes in the morning.
       c) If you can make up a missed test.
       d) If you can have pizza for dinner at night.
