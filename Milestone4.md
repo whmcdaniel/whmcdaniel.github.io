@@ -2,7 +2,7 @@
 
 Link to PDF: [Milestone 4](milestone 4 final.pdf)
 
-[Final Summary Video]()
+[Final Summary Video](https://www.youtube.com/watch?v=ctCW8CAZyCY&feature=youtu.be)
 
 [Homepage](https://whmcdaniel.github.io)
 
@@ -108,38 +108,44 @@ Reason for use: Provides numerical measurement for comparing usability of a vari
       -How would you rate the level of engagement of your students during class time in Zoom?
       -How would you rate your overall experience with Zoom?
       -Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
-The following questions would be asked to control students:
-How do you feel about Zoom?
-How do you feel about using the chat to talk to the teacher?
-How confident are you about using Zoom without any help?
-Responses: Faces ranging from unpleasant to happy.
+      
+  b): The following questions would be asked to control students:
+  
+      -How do you feel about Zoom?
+      -How do you feel about using the chat to talk to the teacher?
+      -How confident are you about using Zoom without any help?
+      -Responses: Faces ranging from unpleasant to happy.
 
-The following questions would be asked to teachers after using the modified Zoom:
-How would you rate your experience with the chat, in particular the highlighted chat messages?
-How would you rate your ability to quickly identify important chat messages?
-How would you rate your experience with the “Virtual White Board”?
-How would you rate your experience with the “Breakout Rooms”?
-How would you rate the organization of the breakout rooms?
-How would you rate the ease with which you can maneuver around different breakout rooms?
-How would you rate the ability to control students in different breakout rooms?
-How would you rate your experience with the color buttons?
-How would you rate your ability to communicate with your students in Zoom?
-How would you rate the usability of Zoom?
-How would you rate the level of engagement of your students during class time in Zoom?
-How would you rate your overall experience with the modified Zoom user interface?
-Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
-The following questions would be asked to experimental students:
-How do you feel about this version of Zoom?
-How do you feel about the “Speech-to-Text” button?
-How do you feel about the White Board mode?
-How do you feel about the colored buttons?
-How do you feel about using the chat to talk to the teacher?
-How confident are you about using Zoom without any help?
-How do you feel about the pictures you can add next to your name?
-Responses: Faces ranging from unpleasant to happy.
+  c): The following questions would be asked to teachers after using the modified Zoom:
+  
+      -How would you rate your experience with the chat, in particular the highlighted chat messages?
+      -How would you rate your ability to quickly identify important chat messages?
+      -How would you rate your experience with the “Virtual White Board”?
+      -How would you rate your experience with the “Breakout Rooms”?
+      -How would you rate the organization of the breakout rooms?
+      -How would you rate the ease with which you can maneuver around different breakout rooms?
+      -How would you rate the ability to control students in different breakout rooms?
+      -How would you rate your experience with the color buttons?
+      -How would you rate your ability to communicate with your students in Zoom?
+      -How would you rate the usability of Zoom?
+      -How would you rate the level of engagement of your students during class time in Zoom?
+      -How would you rate your overall experience with the modified Zoom user interface?
+      -Responses: Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very Satisfied.
+       
+  d): The following questions would be asked to experimental students:
+  
+      -How do you feel about this version of Zoom?
+      -How do you feel about the “Speech-to-Text” button?
+      -How do you feel about the White Board mode?
+      -How do you feel about the colored buttons?
+      -How do you feel about using the chat to talk to the teacher?
+      -How confident are you about using Zoom without any help?
+      -How do you feel about the pictures you can add next to your name?
+      -Responses: Faces ranging from unpleasant to happy.
 
-Quantitative Procedure:
-The teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject.
+## B.3) Quantitative Procedure:
+
+a): teacher will prepare a typical lesson plan and conduct a class on Zoom for both the experimental and control group. They will then give a short multiple choice quiz over the material. The details of this would be left to the teachers as they would best understand their students, but the lesson plan and quiz must be the same per grade level and cover the same subject.
 As an example, given the chosen subject of English:
 2nd grade teachers would conduct a lesson on antonyms and offer a quiz with questions like:
 Soft is to hard as light is to ___
